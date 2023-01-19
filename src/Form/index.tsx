@@ -136,16 +136,16 @@ const Student_Form = () => {
             </div>
               
                 <div className='form'>
+                <div className="form_h1">
+          <h4>Student </h4>&nbsp;
+          <p>Details</p>
+        </div>
                 
-                <h2 className='form__title'>STUDENTS MARKS DETAILS...</h2>
+
                 <div>
                 <hr className='form__line'></hr>
-                </div>
-               {/* </div> 
-               
-               <hr></hr>
-               </div> */}
-               
+                </div> 
+              
                
               
             <FormProvider {...StudentFormMethod}>

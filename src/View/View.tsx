@@ -144,14 +144,16 @@ const View = () => {
 
   return (
     <>
+    
    <div className='header' >
             <img src="https://zelarsoft.com/wp-content/uploads/2021/10/logo.png" alt="img"/>
             </div>
-            <div className='btn'>
+            <div className="header__container">
+            <div>
               <Link to="/create">  <PrimaryButton  className='header__btn' type="submit">Add</PrimaryButton></Link> 
             </div>
     
-    <div className='table'>
+    <div className='header__table'>
         
       {
         data &&
@@ -169,6 +171,7 @@ const View = () => {
 
 
    
+</div>
 </div>
 </>
   )

@@ -1,22 +1,39 @@
-.btn{
-    margin:10px;
-    margin-left:1150px;
-}
-.table{
-width: 1150px;
-height: 400px;
-margin-left: 50px;
+
+
+.header{
+    background-color:#396CC5 ;
+    &__container{
+        background-color: #F4F4F6;
+    height:100vh;
+        
+
+    }
+    &__btn{
+        background-color: #F4F4F6;
+        top:5px;
+        color:black;
+        border-radius: 10px;
+        z-index: 1;
+        margin-left: 1130px;
+        margin-top: 10px;
+       
+
+    }
+    &__table{
+        width: 1150px;
+ height: 400px;
+margin-left: 60px;
 background: #FFFFFF 0% 0% no-repeat padding-box;
-box-shadow: 0px 3px 6px #00000029;
+// box-shadow: 0px 3px 6px #00000029;
 border-radius: 16px;
 opacity: 1;
-  
-}
-.header{
-    background-color:#396CC5;
-    &__btn{
-        margin-left:-40px;
+margin-top: 30px;
+box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.64);
+
+
     }
+
+
 }
 .symbols>*{
     margin:0 10px;
