@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "Name": "sathish",
+      "Rollno": 123,
+      "English": "56",
+      "Telugu": "76",
+      "Hindhi": "35",
+      "Science": "75",
+      "Social": "70",
+      "Activities": "50",
+      "Total marks": "362",
+      "id": 0.7734944637737202
+    },
+    {
+      "Name": "harish",
+      "Rollno": 12,
+      "English": "45",
+      "Telugu": "23",
+      "Hindhi": "35",
+      "Science": "56",
+      "Social": "67",
+      "Activities": "25",
+      "Total marks": "251",
+      "id": 0.5864444252044492
+    },
+    {
+      "Name": "manasa",
+      "Rollno": 103,
+      "English": "15",
+      "Telugu": "45",
+      "Hindhi": "65",
+      "Science": "65",
+      "Social": "78",
+      "Activities": "65",
+      "Total marks": "333",
+      "id": 0.10370919276700619
+    },
+    {
+      "Rollno": 200,
+      "Name": "fayaz",
+      "English": "65",
+      "Telugu": "54",
+      "Hindhi": "35",
+      "Science": "87",
+      "Social": "81",
+      "Activities": "56",
+      "Total marks": "378",
+      "id": 0.7071924404060845
+    },
+    {
+      "Rollno": 201,
+      "Name": "mounika",
+      "English": "54",
+      "Telugu": "67",
+      "Hindhi": "40",
+      "Science": "77",
+      "Social": "76",
+      "Activities": "54",
+      "Total marks": "368",
+      "id": 0.4613477866995219
+    },
+    {
+      "Rollno": 204,
+      "Name": "sasrika",
+      "English": "75",
+      "Telugu": "56",
+      "Hindhi": "65",
+      "Science": "60",
+      "Social": "70",
+      "Activities": "64",
+      "Total marks": "390",
+      "id": 0.3561000210805516
+    }
+  ]
+}
